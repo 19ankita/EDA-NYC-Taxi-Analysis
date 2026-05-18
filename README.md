@@ -158,22 +158,3 @@ Major pickup zones included:
 ---
 
 
-
-
-```text
-NYC-Taxi-Operations-EDA/
-│
-├── app.py
-├── notebooks/
-├── data/
-├── images/
-├── report/
-├── requirements.txt
-└── README.md
-```
-
----
-
-
-
-`Report_NYC_Taxi_Operations_Ankita_Sarkar.pdf` 
